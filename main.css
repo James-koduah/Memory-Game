@@ -1,0 +1,24 @@
+.grid{
+    position: relative;
+    width: 500px;;
+    height: fit-content;
+    margin: auto;
+
+}
+#finder{
+    position: relative;
+    margin-left: 35vw;
+
+}
+body{
+    background-color: black;
+}
+#inline{
+    width: fit-content;
+    margin: auto;
+}
+#result{
+    width: fit-content;
+    color: white;
+    margin: auto;
+}
